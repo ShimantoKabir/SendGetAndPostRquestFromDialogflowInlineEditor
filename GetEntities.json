@@ -1,0 +1,29 @@
+{
+  "id": "dc0ea39d-7e35-40b6-ae51-7bbed77520e6",
+  "name": "GetEntities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetEntities",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ERROR : Something wrong in web hook !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532190956,
+  "fallbackIntent": false,
+  "events": []
+}
